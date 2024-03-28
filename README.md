@@ -9,20 +9,19 @@
 -  🥋 Boxing / Tai Chi
 -  ♟  Chinese Chess / Chess 
 
-
+### 🛠 &nbsp;Tech Stack
 <a href="#">
   <img align="left" width="30%" src="https://github-readme-stats.vercel.app/api?username=binxuan98" />
   <img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binxuan98&layout=compact" />
   <img align="left" width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=binxuan98" />
 </a>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-[//]: # (![]&#40;https://github-readme-stats.vercel.app/api?username=binxuan98&#41;)
- 
-
-[//]: # (![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=binxuan98&layout=compact&#41;)
-                    
-[//]: # (![GitHub Streak]&#40;https://github-readme-streak-stats.herokuapp.com/?user=binxuan98&#41;)
-
+### 📫 How to reach me:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=binxuan98.binxuan98=jwenjian.visitor-badge&left_color=green&right_color=red)
 
