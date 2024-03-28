@@ -18,5 +18,8 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=binxuan98)
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=binxuan98.binxuan98&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=binxuan98.binxuan98=jwenjian.visitor-badge&left_color=green&right_color=red)
+
+
+![visitors](https://visitor.spacexcode.com/?id=binxuan98&label=&labelColor=&color=&type=pv&style=plastic)
 
