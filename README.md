@@ -1,7 +1,7 @@
 ### Yoo, I'm Binxuan 👋
 
 
-- 🍻 Junior at 🇨🇳 [PKU](https://www.pku.edu.cn), _BSc in Computer Science_
+- 🍻 Junior at 🇨🇳 [LUT](https://www.lut.edu.cn/), _BSc in Computer Science_
 - ⚡ Python / C++
 - 🖋 Writer [Toutiao](https://www.toutiao.com/c/user/token/MS4wLjABAAAAWW9q9CDDknH505HKHfHodOmPcQUXsDte2VBkT_l7ADAWxMgxlZKbrRsQeBBRUCEN/?source=tuwen_detail&log_from=0ca1f97d94514_1711635406878)
 - ✍️ [Blogger](https://binxuan98.github.io/)
