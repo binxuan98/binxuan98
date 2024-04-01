@@ -26,13 +26,18 @@
 </a>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ### 📫 &nbsp; How to reach me:
 
 <p>欢迎大家关注公众号《AIGC》带你学深度学习： </p>
 
 </br>
-<img src="" height="180" width="480" alt="极简AI公众号" />
+<img src="" height="180" width="480" alt="公众号" />
 也可以关注我的公众号私信与我交流。
 </br>
 
