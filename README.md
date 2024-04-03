@@ -28,31 +28,28 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
 
 ### 📫 &nbsp; How to reach me:
 
-<p>欢迎大家关注公众号《AIGC》带你学深度学习： </p>
+<p>
+探索AIGC的神奇世界，关注公众号《AIGC魔盒》，带你领略最前沿的人工智能！" </p>
 
 </br>
-<img src="" height="180" width="480" alt="公众号" />
+<img src="data/公众号二维码.png" height="180" width="480" alt="公众号" />
+
 也可以关注我的公众号私信与我交流。
 </br>
 
-这里收集了一些比较适合入门实战的PDF书籍，覆盖TensorFlow、PyTorch与MXNet。推荐的理由是通俗易懂，适合初学者研究学习。书籍列表如下：
+这里收集了一些比较适合入门实战的PDF书籍，覆盖深度学习技术、大模型技术、文生图技术、文生视频技术、多模态技术。推荐的理由是通俗易懂，适合初学者研究学习。书籍列表如下：（关注后，相应回复即可获取下载链接）
 </br>
 </br>
-《简单粗暴TensorFlow2最新中文版》
+《动手学深度学习PyTorch最新中文版》 回复：深度学习
 </br>
-《动手学深度学习PyTorch最新中文版》
+《2023人工智能系列-大模型技术》回复：大模型
 </br>
-《动手学深度学习MXNet最新中文版》
+《大语言模型底层技术入门指南》回复：入门指南
 </br>
 </br>
-关注后，回复：书籍，即可获取下载链接。
-
 
  ## Visitor Statistics 👨‍💻 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
