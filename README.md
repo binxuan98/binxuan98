@@ -4,7 +4,7 @@
 [![知乎](https://img.shields.io/badge/bilibili-查看-yellow)](https://space.bilibili.com/18891861?spm_id_from=333.1007.0.0)
 [![知乎](https://img.shields.io/badge/公众号-查看-green)](https://www.zhihu.com/people/xiaosongshine)
 
-- 🍻  🇨🇳 [USST](https://www.usst.edu.cn/main.htm)  🇨🇳 [LUT](https://www.lut.edu.cn/) in Computer Science
+- 🍻  🇨🇳 [USST](https://www.usst.edu.cn/main.htm)  🇨🇳 [LUT](https://www.lut.edu.cn/) 🇨🇳 [LZU](https://www.lzu.edu.cn/) in Computer Science
 - 🌱  I’m currently learning Deep Learning, Computer Vision, and Reinforcement Learning
 - 👯  I’m looking to collaborate on Open Source Projects
 - 🏃  Kayak / Scuba Diving / Windsurfing / Table Tennis / Cycling
