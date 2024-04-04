@@ -35,7 +35,7 @@
 探索AIGC的神奇世界，关注公众号《AIGC魔盒》，带你领略最前沿的人工智能！" </p>
 
 </br>
-<img src="data/公众号二维码.png" height="180" width="480" alt="公众号" />
+<img src="data/公众号.png" height="180" width="480" alt="公众号" />
 
 也可以关注我的公众号私信与我交流。
 </br>
