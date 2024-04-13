@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="lzu_yangyi @58.18.174.244:5001 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_344" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="user@1.180.205.129:65522 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_49" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
