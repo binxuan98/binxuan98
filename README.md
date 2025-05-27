@@ -1,61 +1,103 @@
-### Yoo, I'm Binxuan 👋
-[![知乎](https://img.shields.io/badge/头条-查看-red)](https://www.toutiao.com/c/user/token/MS4wLjABAAAAWW9q9CDDknH505HKHfHodOmPcQUXsDte2VBkT_l7ADAWxMgxlZKbrRsQeBBRUCEN/?source=tuwen_detail&log_from=0ca1f97d94514_1711635406878)
-[![知乎](https://img.shields.io/badge/博客-查看-blue)](https://binxuan98.github.io/)
-[![知乎](https://img.shields.io/badge/bilibili-查看-yellow)](https://space.bilibili.com/18891861?spm_id_from=333.1007.0.0)
-[![知乎](https://img.shields.io/badge/公众号-查看-green)](https://www.zhihu.com/people/xiaosongshine)
+# Binxuan Zhang (张斌轩)
 
-- 🍻  🇨🇳 [USST](https://www.usst.edu.cn/main.htm)  🇨🇳 [LUT](https://www.lut.edu.cn/) 🇨🇳 [LZU](https://www.lzu.edu.cn/) in Computer Science
-- 🌱  I’m currently learning Deep Learning, Computer Vision, and Reinforcement Learning
-- 👯  I’m looking to collaborate on Open Source Projects
-- 🏃  Kayak / Scuba Diving / Windsurfing / Table Tennis / Cycling
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+[![Personal Website](https://img.shields.io/badge/Website-binxuan98.github.io-blue?style=flat-square)](https://binxuan98.github.io/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-orange?style=flat-square)](https://scholar.google.com)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0000--0000--0000-green?style=flat-square)](https://orcid.org)
+[![WeChat](https://img.shields.io/badge/WeChat-AIGC魔盒-07C160?style=flat-square)](https://www.zhihu.com/people/xiaosongshine)
 
+---
 
-### 🛠 &nbsp;Tech Stack
-<a href="#">
-  <img align="left" width="30%" src="https://github-readme-stats.vercel.app/api?username=binxuan98&theme=vue&&hide=prs,contribs" />
-  <img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binxuan98&layout=compact&theme=vue&&hide=prs,contribs" />
-  <img align="left" width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=binxuan98&theme=vue&&hide=prs,contribs" />
-</a>
-<br/>
-<br/>
-<br/>
-<br/>
+## 🎓 Education
 
-### 📫 &nbsp; How to reach me:
+**Ph.D. in Computer Science** | [Lanzhou University (LZU)](https://www.lzu.edu.cn/) | 2023 - Present  
+**M.S. in Computer Science** | [Liaoning University of Technology (LUT)](https://www.lut.edu.cn/) | 2021 - 2023  
+**B.S. in Computer Science** | [University of Shanghai for Science and Technology (USST)](https://www.usst.edu.cn/main.htm) | 2017 - 2021
 
-<p>
-探索AIGC的神奇世界，关注公众号《AIGC魔盒》，带你领略最前沿的人工智能！" </p>
+---
 
-</br>
-<img src="data/公众号.png" height="180" width="480" alt="公众号" />
+## 🔬 Research Interests
 
-也可以关注我的公众号私信与我交流。
-</br>
+- **Artificial Intelligence & Machine Learning**: Deep Learning, Neural Networks, Optimization
+- **Computer Vision**: Image Processing, Object Detection, Semantic Segmentation
+- **Large Language Models**: Natural Language Processing, Multimodal Learning
+- **Generative AI**: Text-to-Image Generation, Video Synthesis, AIGC Technologies
+- **Reinforcement Learning**: Policy Optimization, Multi-Agent Systems
 
-这里收集了一些比较适合入门实战的PDF书籍，覆盖深度学习技术、大模型技术、文生图技术、文生视频技术、多模态技术。推荐的理由是通俗易懂，适合初学者研究学习。书籍列表如下：（关注后，相应回复即可获取下载链接）
-</br>
-</br>
-《动手学深度学习PyTorch最新中文版》 回复：深度学习
-</br>
-《2025人工智能系列-大模型技术》回复：大模型
-</br>
-《大语言模型底层技术入门指南》回复：入门指南
-</br>
-</br>
+---
 
- ## Visitor Statistics 👨‍💻 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+## 💻 Technical Skills
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/binxuan98/count.svg" />
-</p>
+### **Programming Languages**
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Advanced-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Intermediate-ED8B00?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+### **AI/ML Frameworks**
+![PyTorch](https://img.shields.io/badge/PyTorch-Expert-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-Advanced-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Advanced-FFD21E?style=flat-square)
+
+### **Development Tools**
+![Git](https://img.shields.io/badge/Git-Expert-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Advanced-FCC624?style=flat-square&logo=linux&logoColor=black)
+![CUDA](https://img.shields.io/badge/CUDA-Intermediate-76B900?style=flat-square&logo=nvidia&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=binxuan98&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binxuan98&layout=compact&langs_count=8&theme=github_dark"/>
+</div>
+
+---
+
+## 🏆 Selected Projects
+
+### 🤖 **Deep Learning Research**
+- Advanced neural network architectures for computer vision tasks
+- Implementation of state-of-the-art object detection algorithms
+- Multi-modal learning systems for vision-language understanding
+
+### 🎨 **Generative AI Applications**
+- Text-to-image generation models using diffusion techniques
+- Video synthesis and editing tools
+- Large language model fine-tuning and deployment
+
+### 📚 **Open Source Contributions**
+- Educational resources for deep learning practitioners
+- PyTorch implementations of recent research papers
+- Community-driven AI/ML tutorials and documentation
+
+---
+
+## 📝 Publications & Preprints
+
+*Selected publications will be listed here as they become available*
+
+---
+
+## 🌐 Academic Service & Outreach
+
+- **Technical Writing**: Author of "AIGC魔盒" WeChat public account, focusing on cutting-edge AI research
+- **Community Engagement**: Active contributor to open-source AI/ML projects
+- **Knowledge Sharing**: Regular posts on AI research trends and practical implementations
+
+---
+
+## 📬 Contact Information
+
+- **Email**: [your.email@university.edu](mailto:your.email@university.edu)
+- **Personal Website**: [binxuan98.github.io](https://binxuan98.github.io/)
+- **WeChat Public Account**: AIGC魔盒 (for AI/ML discussions in Chinese)
+- **Location**: Lanzhou, Gansu, China
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=binxuan98&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
