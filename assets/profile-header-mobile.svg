@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="480" viewBox="0 0 720 480" role="img" aria-labelledby="title desc">
+  <title id="title">张斌轩 Binxuan Zhang</title>
+  <desc id="desc">人工智能研究、职业教育与算力技术实践个人主页移动端头图</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f" />
+      <stop offset="0.62" stop-color="#0b1b2f" />
+      <stop offset="1" stop-color="#102b3f" />
+    </linearGradient>
+    <radialGradient id="halo" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#59d9ff" stop-opacity="0.28" />
+      <stop offset="0.48" stop-color="#3f99c2" stop-opacity="0.09" />
+      <stop offset="1" stop-color="#1d5b78" stop-opacity="0" />
+    </radialGradient>
+    <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <clipPath id="frame">
+      <rect width="720" height="480" rx="18" />
+    </clipPath>
+    <style>
+      .route { stroke-dasharray: 8 14; animation: route-flow 10s linear infinite; }
+      .route.slow { animation-duration: 15s; animation-direction: reverse; }
+      .signal { animation: signal-pulse 3.8s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      .signal.delay-a { animation-delay: -1.3s; }
+      .signal.delay-b { animation-delay: -2.6s; }
+      @keyframes route-flow { to { stroke-dashoffset: -132; } }
+      @keyframes signal-pulse {
+        0%, 100% { opacity: .36; transform: scale(.8); }
+        50% { opacity: 1; transform: scale(1.08); }
+      }
+      @media (prefers-reduced-motion: reduce) {
+        .route, .signal { animation: none; }
+      }
+    </style>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="720" height="480" fill="url(#background)" />
+    <circle cx="586" cy="144" r="220" fill="url(#halo)" />
+
+    <g opacity="0.52" fill="none" stroke="#6fcbe6">
+      <path d="M590 48L662 90L662 174L590 216L518 174L518 90Z" />
+      <path d="M590 82L633 107L633 157L590 182L547 157L547 107Z" opacity="0.62" />
+      <path d="M590 112L608 122L608 143L590 154L572 143L572 122Z" opacity="0.86" />
+    </g>
+
+    <g fill="none" stroke-linecap="round">
+      <path class="route" d="M404 222C474 190 502 133 562 132S646 164 716 105" stroke="#54c8e8" stroke-width="2" opacity="0.58" />
+      <path class="route slow" d="M422 67C485 76 521 42 580 70S642 157 721 176" stroke="#d9b25f" stroke-width="2" opacity="0.5" />
+      <path class="route" d="M360 430C443 371 482 347 553 356S644 412 732 329" stroke="#4b8fca" stroke-width="2" opacity="0.38" />
+    </g>
+
+    <g fill="#7ee4ff" filter="url(#softGlow)">
+      <circle class="signal" cx="562" cy="132" r="5" />
+      <circle class="signal delay-a" cx="590" cy="133" r="6" />
+      <circle class="signal delay-b" cx="662" cy="174" r="4" />
+    </g>
+    <g fill="#e3bd68" filter="url(#softGlow)">
+      <circle class="signal delay-b" cx="580" cy="70" r="4" />
+      <circle class="signal delay-a" cx="628" cy="142" r="4" />
+    </g>
+
+    <g font-family="Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif">
+      <text x="48" y="77" fill="#86d9f0" font-size="17" font-weight="600">AI RESEARCH · EDUCATION · COMPUTING</text>
+      <text x="46" y="170" fill="#f4f7fb" font-size="58" font-weight="700">张斌轩</text>
+      <text x="48" y="214" fill="#cbd8e6" font-size="29">Binxuan Zhang</text>
+      <text x="48" y="305" fill="#a9bdcc" font-size="21">连接人工智能研究、职业教育课堂</text>
+      <text x="48" y="339" fill="#a9bdcc" font-size="21">与东数西算庆阳枢纽</text>
+    </g>
+
+    <g transform="translate(48 422)" font-family="Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="14" font-weight="600">
+      <circle cx="5" cy="-5" r="5" fill="#e3bd68" />
+      <text x="22" y="0" fill="#9eb3c5">QINGYANG · GANSU · CHINA</text>
+    </g>
+  </g>
+</svg>
